@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array 
+        name="sites">
+        <item name="sportspesa">SportsPesa</item>
+        <item name="Elitebet">EliteBet</item>
+        <item name="betin">Betin</item>
+        <item name="royalbet">Kenya RoyalBet</item>
+        <item name="justbet">JustBet</item>
+        <item name="betway">Betway</item>
+        <item name="betyetu">Betyetu</item>
+        
+        
+        ></string-array>
+</resources>
